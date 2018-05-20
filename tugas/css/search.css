@@ -1,0 +1,32 @@
+.form {
+         width:1000px;
+         margin:50px auto;
+		 float:center;
+     }
+	 
+.search {
+	    width:50%;
+        padding:8px 15px;
+        background:white;
+        border:2px solid blue;
+    }
+	
+.button {
+        position:relative;
+        left:-4px;
+        padding:10px 15px;
+        border:0px solid blue;
+        background: blue;
+        color:white;
+        font-weight:bold;
+    }
+	
+.menu button:hover {
+        background: #008080;
+        color:#fafafa;
+    }
+	
+.menu button:active {
+    }
+        background:#9ACD32;
+	}
